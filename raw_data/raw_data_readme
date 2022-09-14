@@ -1,0 +1,1 @@
+There are 9 cities in the paper we analysed. The document name represent the city and each file contains 4 columns which indicates information of each confirmed cases. To be specific, four columns indicates the serial number, the confirmed date, the longitude and latitude of activity centroid of this confirmed cases.
